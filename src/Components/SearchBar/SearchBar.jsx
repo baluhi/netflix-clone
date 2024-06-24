@@ -1,6 +1,6 @@
 import "./searchbar.css";
 import { useState } from "react";
-
+import React from 'react'
 import { FaSistrix } from "react-icons/fa6";
 const SearchBar = () => {
   const [isActive, setIsActive] = useState(false);

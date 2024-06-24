@@ -1,9 +1,9 @@
 import "./moviecards.css";
 import { data } from "../../Data/Data.json";
-import { useState } from "react";
+import  React ,{ useState } from "react";
 
 const MovieCards = () => {
-  // Assuming data is an array of movie objects
+
   const [movies] = useState(data);
 
   return (

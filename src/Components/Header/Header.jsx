@@ -3,7 +3,7 @@ import SearchBar from "../SearchBar/SearchBar";
 import { FaAlignJustify } from "react-icons/fa";
 import './header.css'
 import {Link} from 'react-router-dom'
-
+import React from 'react'
 const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg   netflix-nav " >

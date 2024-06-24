@@ -1,5 +1,6 @@
 import { FaCircleExclamation } from "react-icons/fa6";
 import "./carousel.css";
+import React from 'react';
 const CarouselCard = () => {
   return (
     <div className="container-fluid mt-4">

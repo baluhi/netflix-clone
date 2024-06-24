@@ -1,5 +1,5 @@
 import './tvshowcard.css'
-import {useState} from 'react';
+import React, {useState} from 'react';
 import { tvShows} from "../../Data/Data.json";
 
 const TvShowsCard = () => {
