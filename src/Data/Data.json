@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "year": "2010",
+      "genre": "Action, Sci-Fi, Thriller",
+      "rating": 8.8,
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7825626_p_v8_ae.jpg"
+    },
+    {
+      "id": "2",
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "year": "1994",
+      "genre": "Drama",
+      "rating": 9.3,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+    },
+    {
+      "id": "3",
+      "title": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "year": "1972",
+      "genre": "Crime, Drama",
+      "rating": 9.2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/af/The_Godfather%2C_The_Game.jpg"
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. ",
+      "year": "2008",
+      "genre": "Action, Crime, Drama",
+      "rating": 9.0,
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "year": "1994",
+      "genre": "Crime, Drama",
+      "rating": 8.9,
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Schindler's List",
+      "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "year": "1993",
+      "genre": "Biography, Drama, History",
+      "rating": 9.0,
+      "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "The Lord of the Rings: The Return of the King",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "year": "2003",
+      "genre": "Action, Adventure, Drama",
+      "rating": 8.9,
+      "image": "https://images.moviesanywhere.com/45bc0ec075bfc0b4d8f184a7cc5bf993/876ed805-83b1-4387-b0d0-62d08c36536d.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+      "year": "1994",
+      "genre": "Drama, Romance",
+      "rating": 8.8,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Fight Club",
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "year": "1999",
+      "genre": "Drama",
+      "rating": 8.8,
+      "image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The Matrix",
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "year": "1999",
+      "genre": "Action, Sci-Fi",
+      "rating": 8.7,
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+    }
+  ],
+
+
+
+  "tvShows": [
+    {
+      "title": "Stranger Things",
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "year": 2016,
+      "description": "A group of kids in a small town discover a series of supernatural events and government conspiracies.",
+      "rating": 8.7,
+      "image":"https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Game of Thrones",
+      "genre": ["Action", "Adventure", "Drama"],
+      "year": 2011,
+      "description": "In the mythical continent of Westeros, several noble families fight for control of the Seven Kingdoms.",
+      "rating": 9.3,
+      "image" :"https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+      "title": "Breaking Bad",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "year": 2008,
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student.",
+      "rating": 9.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+      "title": "The Mandalorian",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "year": 2019,
+      "description": "A lone bounty hunter navigates the outer reaches of the galaxy after the fall of the Empire.",
+      "rating": 8.8,
+      "image":"https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Friends",
+      "genre": ["Comedy", "Romance"],
+      "year": 1994,
+      "description": "Follows the lives of six friends living in Manhattan.",
+      "rating": 8.9,
+      "image":"https://m.media-amazon.com/images/S/pv-target-images/c7fc75a423fc33698265a27fe446a41026f3c8642fd6c8706c43b897d2ffb3e6.jpg"
+    }
+  ]
+}

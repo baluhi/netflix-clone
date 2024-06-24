@@ -1,0 +1,46 @@
+/* src/components/AnimatedSearchBar.css */
+
+.search-container {
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+    position: relative;
+    width: 40px;
+}
+
+.search-container.active {
+    width: 250px;
+}
+
+.search-input { 
+    width: 0;
+    opacity: 0;
+    transition: all 0.3s ease;
+    position: absolute;
+    right: 0;
+    padding: 5px;
+    border: 1px solid #040404;
+    outline: none;
+    background-color: black;
+    border-radius:  5px;
+    
+}
+
+.search-container.active .search-input {
+    width: 200px;
+    opacity: 1;
+}
+
+.search-icon {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+}
+
+.search-icon{
+    color: aliceblue;
+font-size: 2rem;
+margin-top: -5px;
+}

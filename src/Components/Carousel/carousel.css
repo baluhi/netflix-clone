@@ -1,0 +1,12 @@
+.carousel-image{
+    align-items: center;
+  height:450PX;
+}
+.carousel-card-body{
+    position: absolute;
+    bottom: 0;
+}
+.btn{
+    height: 40px;
+
+}

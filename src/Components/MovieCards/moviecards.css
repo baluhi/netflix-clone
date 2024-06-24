@@ -1,0 +1,73 @@
+/* General container styling */
+.container-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between cards */
+  
+    justify-content: center; /* Center the content horizontally */
+  }
+  
+  /* Card specific styling */
+  .movie-card {
+
+ 
+    border-radius: 8px; /* Rounded corners */
+    overflow: hidden; /* Hide overflow */
+    width: 250px; /* Fixed width for cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
+  }
+  
+  /* Hover effect for cards */
+  .movie-card:hover {
+    transform: translateY(-5px); /* Slight lift on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Slightly deeper shadow on hover */
+  }
+  
+  /* Header styling */
+  .card-header {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 10px; /* Padding inside the header */
+  }
+  
+  .card-title {
+    margin: 0; /* Remove default margin */
+    font-size: 18px; /* Font size for title */
+    font-weight: bold; /* Bold text */
+  }
+  
+  /* Body styling */
+  .card-body {
+    padding: 15px; /* Padding inside the body */
+  }
+  
+  /* Image styling */
+  .card-img-top {
+    width: 100%; /* Full width */
+    height:200px; /* Maintain aspect ratio */
+  object-fit: contain; /* Block display */
+    border-bottom: 1px solid #ddd; /* Bottom border to separate from text */
+  }
+  
+  /* Text styling */
+  .card-text {
+    margin-top: 10px; /* Space above text */
+    font-size: 14px; /* Font size for description */
+    color: #333; /* Dark grey text */
+  }
+  
+  /* Details styling */
+  .card-details {
+    margin-top: 15px; /* Space above details */
+    display: flex; /* Flexbox for alignment */
+    justify-content: space-between; /* Space between year and rating */
+    font-size: 12px; /* Smaller font size for details */
+    color: #666; /* Lighter grey text */
+  }
+  
+  .release-year, .rating {
+    background-color: #f1f1f1; /* Light grey background */
+    padding: 5px 10px; /* Padding inside the details */
+    border-radius: 5px; /* Rounded corners */
+  }
+  
