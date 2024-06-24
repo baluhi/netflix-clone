@@ -10,7 +10,7 @@ const CarouselCard = () => {
         data-bs-ride="carousel"
       >
         <div className="carousel-inner">
-          <div className="carousel-item align-items-center  active">
+          <div className="carousel-item align-items-center   active">
             <img
               src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/102de8278bed6e8a346a8f04b5b3c7db.jpe"
               className="d-block w-100 carousel-image "
