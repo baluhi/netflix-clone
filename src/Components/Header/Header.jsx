@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom'
 import React from 'react'
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg   netflix-nav " >
+    <nav className="navbar navbar-expand-lg   netflix-nav  "  style ={{position:"sticky", top:"0"}}>
       <div className="container-fluid ">
         <Link className="navbar-brand" href="#">
           <Logo />

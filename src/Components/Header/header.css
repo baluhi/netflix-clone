@@ -1,5 +1,5 @@
 .netflix-nav{
-    background-color: #333; /* Dark background */
+    background-color: #201f1f; /* Dark background */
     color: #fff; /* White text */
     padding: 15px 20px; /* Padding around the nav */
     box-shadow: 0 4px 10px rgba(105, 103, 103, 0.15); /* Box shadow for the navbar */
@@ -7,7 +7,7 @@
     width: 100%; /* Full width */
     top: 0; /* Align to top */
     left: 0; /* Align to left */
-    z-index: 1000; 
+    z-index: 1; 
 }
 
 .nav-links{
