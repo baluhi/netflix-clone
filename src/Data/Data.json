@@ -89,6 +89,42 @@
       "genre": "Action, Sci-Fi",
       "rating": 8.7,
       "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "year": "2014",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "rating": 8.6,
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+    },
+    {
+      "id": "12",
+      "title": "The Silence of the Lambs",
+      "description": "A young FBI cadet seeks the help of an imprisoned cannibalistic serial killer to catch another serial killer.",
+      "year": "1991",
+      "genre": "Crime, Drama, Thriller",
+      "rating": 8.6,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Parasite",
+      "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "year": "2019",
+      "genre": "Comedy, Drama, Thriller",
+      "rating": 8.6,
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png"
+    },
+    {
+      "id": "14",
+      "title": "Gladiator",
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "year": "2000",
+      "genre": "Action, Adventure, Drama",
+      "rating": 8.5,
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg"
     }
   ],
 
@@ -134,6 +170,30 @@
       "description": "Follows the lives of six friends living in Manhattan.",
       "rating": 8.9,
       "image":"https://m.media-amazon.com/images/S/pv-target-images/c7fc75a423fc33698265a27fe446a41026f3c8642fd6c8706c43b897d2ffb3e6.jpg"
+    },
+    {
+      "title": "The Crown",
+      "genre": ["Drama", "History"],
+      "year": 2016,
+      "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+      "rating": 8.7,
+      "image":"https://upload.wikimedia.org/wikipedia/en/2/2d/The_Crown_title_card.jpg"
+    },
+    {
+      "title": "The Boys",
+      "genre": ["Action", "Comedy", "Drama"],
+      "year": 2019,
+      "description": "A group of vigilantes set out to take down corrupt superheroes who abuse their powers.",
+      "rating": 8.7,
+      "image":"https://upload.wikimedia.org/wikipedia/en/8/87/The_Boys_Season_1_vol.jpg"
+    },
+    {
+      "title": "Westworld",
+      "genre": ["Drama", "Mystery", "Sci-Fi"],
+      "year": 2016,
+      "description": "A dark odyssey about the dawn of artificial consciousness and the future of sin in a reimagined Western-themed amusement park.",
+      "rating": 8.6,
+      "image":"https://upload.wikimedia.org/wikipedia/en/e/e0/Westworld_title.png"
     }
   ]
 }
