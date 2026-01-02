@@ -6,7 +6,7 @@ import MoviesPage from "./Pages/MoviesPage";
 import HomePage from "./Pages/HomePage";
 import TvShowsPage from "./Pages/TvShowsPage";
 import Footer from "./Components/Footer/Footer";
-
+import React from "react";
 const App = () => {
   return (
     <>
