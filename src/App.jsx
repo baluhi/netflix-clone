@@ -1,4 +1,4 @@
-/* import Header from "./Components/Header/Header";
+import Header from "./Components/Header/Header";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
@@ -24,16 +24,5 @@ const App = () => {
   );
 };
 export default App;
- */
 
-import React from 'react'
 
-const App = () => {
-  return (
-    <div>
-       <EligibilityComponent response={response} />;
-    </div>
-  )
-}
-
-export default App
