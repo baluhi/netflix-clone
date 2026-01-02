@@ -1,3 +1,4 @@
+import React from "react";
 import Header from "./Components/Header/Header";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.min.js";
@@ -6,7 +7,7 @@ import MoviesPage from "./Pages/MoviesPage";
 import HomePage from "./Pages/HomePage";
 import TvShowsPage from "./Pages/TvShowsPage";
 import Footer from "./Components/Footer/Footer";
-import React from "react";
+
 const App = () => {
   return (
     <>
